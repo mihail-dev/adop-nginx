@@ -43,11 +43,7 @@
                         "title": "selenium",
                         "img": "img/selenium.png",
                         "description": "Selenium Grid for Automated Testing",
-                        "link": "",
-                        "linkCreate": {
-                            "host": "selenium",
-                            "endPath": "//grid/console"
-                        }
+                        "link": "selenium",
                     },
                     {
                         "id": "sensu",
