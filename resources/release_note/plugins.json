@@ -43,7 +43,7 @@
                         "title": "selenium",
                         "img": "img/selenium.png",
                         "description": "Selenium Grid for Automated Testing",
-                        "link": "selenium",
+                        "link": "selenium"
                     },
                     {
                         "id": "sensu",
